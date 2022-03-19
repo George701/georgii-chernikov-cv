@@ -13,9 +13,6 @@ const Navbar = (props) => {
 	// TODO
 	// Slide menu
 	// Show humburger
-	useEffect(() => {
-		console.log(props)
-	})
 	return (
 		<div>
 			<select value={lang} onChange={event => setLanguage(event.target.value)}>
