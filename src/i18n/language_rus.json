@@ -1,4 +1,6 @@
 {
-  "greeting": "Привет",
-  "name": "Георгий"
+  "greetingLabel": "Привет, меня зовут",
+  "nameLabel": "Георгий",
+  "firstName_lastName": "Георгий Черников",
+  "downloadLabel": "Скачать"
 }

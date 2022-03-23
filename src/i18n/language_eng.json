@@ -1,4 +1,6 @@
 {
-  "greeting": "Hello",
-  "name": "Georgii"
+  "greetingLabel": "Hello, I am",
+  "nameLabel": "Georgii",
+  "firstName_lastName": "Georgii Chernikov",
+  "downloadLabel": "Download"
 }
